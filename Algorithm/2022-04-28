@@ -29,4 +29,4 @@ function solution(numbers) {
     for(let i = 0; i < x.length; i++)
     result =+ x[i]
 }
-함수를 만들어서 할까 하다가 , reduce 가 생각나서 reduce를 활용해서 풀었습니다!
+함수를 만들어서 할까 하다가 , reduce 가 생각나서 reduce를 활용해서 풀었습니다!.
